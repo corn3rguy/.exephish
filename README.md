@@ -1,0 +1,2 @@
+# .exephish
+Phishing Menu
